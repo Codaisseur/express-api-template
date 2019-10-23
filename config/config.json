@@ -4,16 +4,14 @@
     "password": "secret",
     "database": "postgres",
     "host": "127.0.0.1",
-    "dialect": "postgres",
-    "operatorsAliases": false
+    "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
     "password": "secret",
     "database": "postgres",
     "host": "127.0.0.1",
-    "dialect": "postgres",
-    "operatorsAliases": false
+    "dialect": "postgres"
   },
   "production": {
     "use_env_variable": "DATABASE_URL"
